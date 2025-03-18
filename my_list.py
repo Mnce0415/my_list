@@ -14,3 +14,4 @@ my_list.sort
 print(my_list)
 index_of_30 = my_list.index(30)
 print('The index of 30 is:', index_of_30)
+print(index_of_30)
